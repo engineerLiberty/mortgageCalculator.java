@@ -44,4 +44,3 @@ public class mortgageCalculator {
         System.out.print("Mortgage:" + "  " + "$" + MonthlyPaymentPlan);
     }
 }
-
